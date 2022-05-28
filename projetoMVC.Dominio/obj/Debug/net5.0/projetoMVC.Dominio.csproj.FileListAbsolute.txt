@@ -1,0 +1,12 @@
+C:\projetoMVC\projetoMVC.Dominio\bin\Debug\net5.0\projetoMVC.Dominio.deps.json
+C:\projetoMVC\projetoMVC.Dominio\bin\Debug\net5.0\projetoMVC.Dominio.dll
+C:\projetoMVC\projetoMVC.Dominio\bin\Debug\net5.0\projetoMVC.Dominio.pdb
+C:\projetoMVC\projetoMVC.Dominio\obj\Debug\net5.0\projetoMVC.Dominio.csproj.AssemblyReference.cache
+C:\projetoMVC\projetoMVC.Dominio\obj\Debug\net5.0\projetoMVC.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoMVC\projetoMVC.Dominio\obj\Debug\net5.0\projetoMVC.Dominio.AssemblyInfoInputs.cache
+C:\projetoMVC\projetoMVC.Dominio\obj\Debug\net5.0\projetoMVC.Dominio.AssemblyInfo.cs
+C:\projetoMVC\projetoMVC.Dominio\obj\Debug\net5.0\projetoMVC.Dominio.csproj.CoreCompileInputs.cache
+C:\projetoMVC\projetoMVC.Dominio\obj\Debug\net5.0\projetoMVC.Dominio.dll
+C:\projetoMVC\projetoMVC.Dominio\obj\Debug\net5.0\refint\projetoMVC.Dominio.dll
+C:\projetoMVC\projetoMVC.Dominio\obj\Debug\net5.0\projetoMVC.Dominio.pdb
+C:\projetoMVC\projetoMVC.Dominio\obj\Debug\net5.0\ref\projetoMVC.Dominio.dll

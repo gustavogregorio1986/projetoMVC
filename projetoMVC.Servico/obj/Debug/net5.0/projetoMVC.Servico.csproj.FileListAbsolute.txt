@@ -1,0 +1,17 @@
+C:\projetoMVC\projetoMVC.Servico\bin\Debug\net5.0\projetoMVC.Servico.deps.json
+C:\projetoMVC\projetoMVC.Servico\bin\Debug\net5.0\projetoMVC.Servico.dll
+C:\projetoMVC\projetoMVC.Servico\bin\Debug\net5.0\projetoMVC.Servico.pdb
+C:\projetoMVC\projetoMVC.Servico\bin\Debug\net5.0\projetoMVC.Data.dll
+C:\projetoMVC\projetoMVC.Servico\bin\Debug\net5.0\projetoMVC.Dominio.dll
+C:\projetoMVC\projetoMVC.Servico\bin\Debug\net5.0\projetoMVC.Data.pdb
+C:\projetoMVC\projetoMVC.Servico\bin\Debug\net5.0\projetoMVC.Dominio.pdb
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\projetoMVC.Servico.csproj.AssemblyReference.cache
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\projetoMVC.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\projetoMVC.Servico.AssemblyInfoInputs.cache
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\projetoMVC.Servico.AssemblyInfo.cs
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\projetoMVC.Servico.csproj.CoreCompileInputs.cache
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\projetoMVC.Servico.csproj.CopyComplete
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\projetoMVC.Servico.dll
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\refint\projetoMVC.Servico.dll
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\projetoMVC.Servico.pdb
+C:\projetoMVC\projetoMVC.Servico\obj\Debug\net5.0\ref\projetoMVC.Servico.dll
