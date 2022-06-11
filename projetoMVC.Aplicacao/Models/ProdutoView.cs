@@ -6,6 +6,5 @@
 
         public string NomeProd { get; set; }
 
-        public PagamentoView PagamentoView { get; set; }
     }
 }

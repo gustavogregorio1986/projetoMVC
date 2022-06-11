@@ -12,10 +12,5 @@
 
         public string Telefone { get; set; }
 
-        public LojaView lojaView { get; set; }
-
-        public ProdutoView produtoView { get; set; }
-
-        public PagamentoView pagamentoView { get; set; }
     }
 }
